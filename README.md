@@ -1,2 +1,2 @@
-# bayesian_inference
+# Bayesian Inference
 Bayesian Inference Mini Project for Springboard
